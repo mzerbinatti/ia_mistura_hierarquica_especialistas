@@ -1,0 +1,21 @@
+https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+https://www.gnu.org/software/octave/#install
+
+https://www.anaconda.com/distribution/
+
+https://code.visualstudio.com/
+
+-----------------------
+
+pip install plotly
+pip install oct2py
+
+py -m pip install oct2py (pode usar esse estilo se o de cima não funcionar)
+
+Path => C:\Octave\Octave-5.1.0.0\mingw64\bin
+OCTAVE_EXECUTABLE => C:\Octave\Octave-5.1.0.0\mingw64\bin\octave-cli.exe
+
+-----------------------
+HME - 15 epocas
+Expert - 700 epocas
